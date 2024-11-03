@@ -1,4 +1,4 @@
-# Roadmap DevOps
+# Roadmap DevOps / SRE
 
 - [Redes](#redes)
 - [Linux](#linux)

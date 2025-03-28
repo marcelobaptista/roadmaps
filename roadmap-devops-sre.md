@@ -12,7 +12,7 @@
 
 ## Redes
 
-### Modelo OSI
+### Modelo OSI (Semana 1)
 
 - Camada 1 - Física
 - Camada 2 - Enlace
@@ -22,7 +22,7 @@
 - Camada 6 - Apresentação
 - Camada 7 - Aplicação
 
-### Protocolos de Rede
+### Protocolos de Rede (Semana 2)
 
 - TCP/IP
 - HTTP/HTTPS (métodos GET, POST, PUT, DELETE e PATCH)
@@ -37,7 +37,7 @@
 - SSH
 - Telnet
 
-### Endereçamento IP
+### Endereçamento IP (Semana 3 e 4)
 
 - IPv4
 - IPv6
@@ -50,30 +50,30 @@
 
 ## Linux
 
-### Arquitetura do sistema Linux
+### Arquitetura do sistema Linux (Semana 5)
 
 - Kernel e espaço do usuário
 - Modos de operação (usuário e kernel)
 - Sistemas de inicialização (SysVinit, systemd)
 
-### Gerenciamento de processos e memória
+### Gerenciamento de processos e memória (Semana 6)
 
 - Estruturas de dados de processos
 - Comandos de controle de processos (ps, top, kill)
 - Gerenciamento de memória (swap, caches)
 
-### Gerenciamento de usuários e grupos
+### Gerenciamento de usuários e grupos (Semana 7)
 
 - Criação e gerenciamento de usuários
 - Configuração de grupos e permissões
 - Autenticação de usuários (PAM, LDAP)
 
-### Gerenciamento de pacotes
+### Gerenciamento de pacotes (Semana 8)
 
 - Gerenciadores de pacotes (apt, yum, dnf)
 - Instalação e remoção de pacotes
 
-### Dispositivos e sistemas de arquivos
+### Dispositivos e sistemas de arquivos (Semana 9)
 
 - Estrutura do sistema de arquivos (FHS)
 - Montagem e desmontagem de sistemas de arquivos
@@ -82,7 +82,7 @@
 - Gerenciamento de discos e partições (fdisk, parted)
 - RAID e LVM para gerenciamento de armazenamento
 
-### Ferramentas de manipulação e análise de Texto
+### Ferramentas de manipulação e análise de Texto (Semana 10)
 
 - awk
 - cut
@@ -94,7 +94,7 @@
 - uniq
 - wc
 
-### Ferramentas de manipulação, cópia, compressão e análise de arquivos
+### Ferramentas de manipulação, cópia, compressão e análise de arquivos (Semana 11)
 
 - rsync
 - find
@@ -109,7 +109,7 @@
 - zip/unzip
 - file
 
-### Ferramentas de análise de sistema
+### Ferramentas de análise de sistema (Semana 12)
 
 - Comandos de monitoramento de sistema (vmstat, iostat)
 - Ferramentas de análise de desempenho (sar, perf)
@@ -122,7 +122,7 @@
 - Diagnóstico de problemas de rede (ping, traceroute, netstat)
 - Logs de sistema e logs de rede
 
-### Configuração básica de rede
+### Configuração básica de rede (Semana )
 
 - Configuração de interfaces de rede
 - Configuração de serviços de rede (SSH, FTP, HTTP)
@@ -130,7 +130,7 @@
 - Configuração de tabelas de roteamento e ARP
 - Configuração de hosts e resolução de nomes (DNS, /etc/hosts)
 
-### Segurança em sistemas Linux
+### Segurança em sistemas Linux (Semana )
 
 - Controle de acesso (sudo, PAM)
 - Configuração de firewall (iptables, firewalld)
@@ -139,7 +139,7 @@
 - Criptografia de arquivos e comunicações (GPG, SSL/TLS)
 - Monitoramento de segurança (auditd, SELinux, AppArmor)
 
-### Servidores
+### Servidores (Semana )
 
 - Configuração de servidores web (Apache, Nginx, Caddy)
 - Configuração de servidores de banco de dados (MySQL, PostgreSQL)
@@ -147,7 +147,7 @@
 - Configuração de servidores de arquivos (Samba, NFS)
 - Configuração de proxies e balanceadores de carga (Nginx, HAProxy)
 
-## Shell script
+## Shell script (Semana )
 
 - Estrutura de scripts (loops, condicionais)
 - Manipulação de arquivos e diretórios
@@ -156,26 +156,26 @@
 - curl e wget para automação de tarefas
 - jq e yq para manipulação de JSON e YAML
 
-## Cloud Computing
+## Cloud Computing (Semana )
 
 - [AWS básico](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/#exam-prep)
 - [Azure básico](https://learn.microsoft.com/pt-br/training/courses/az-900t00#course-syllabus)
 
-## Configurations Management
+## Configurations Management (Semana )
 
 - JSON
 - YAML
 - Conceitos de CM
 - Ansible
 
-## IaC (Infrastructure as Code)
+## IaC (Infrastructure as Code) (Semana )
 
 - Conceitos de IaC
 - Terraform
 
 ## Containers
 
-### Como um container funciona por baixo dos panos
+### Como um container funciona por baixo dos panos (Semana )
 
 - chroot
 - namespaces (pid, net, ipc, mnt, uts)
@@ -184,7 +184,7 @@
 - Overlay filesystem
 - Seccomp
 
-### Docker
+### Docker (Semana )
 
 - O que é o Docker?
 - Containers vs VMs
@@ -202,7 +202,7 @@
 - Docker secrets
 - Segurança no Docker (limitação de privilégios, uso de imagens confiáveis)
 
-## Git
+## Git (Semana )
 
 - O que é o Git?
 - Instalação e configuração do Git
